@@ -56,8 +56,6 @@ src/
 
 ## Screenshots
 
-Add screenshots after uploading them to `docs/screenshots/`.
-
 ```md
 ## Screenshots
 
